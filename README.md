@@ -1,6 +1,6 @@
 <div align="center">
 
-![Percy Banner]([https://raw.githubusercontent.com/nguyenphp305/nguyenphp305/main/cover.png](https://github.com/nguyenphp/nguyenphp/blob/main/cover.png?raw=true))
+![Percy Banner](https://raw.githubusercontent.com/nguyenphp305/nguyenphp305/main/cover.png](https://github.com/nguyenphp/nguyenphp/blob/main/cover.png?raw=true)](https://raw.githubusercontent.com/nguyenphp/nguyenphp/refs/heads/main/cover.png)
 
 <br/>
 
