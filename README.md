@@ -1,6 +1,6 @@
 <div align="center">
 
-![Percy Banner](https://raw.githubusercontent.com/nguyenphp305/nguyenphp305/main/cover.png](https://github.com/nguyenphp/nguyenphp/blob/main/cover.png?raw=true)](https://raw.githubusercontent.com/nguyenphp/nguyenphp/refs/heads/main/cover.png)
+![Percy Banner](https://raw.githubusercontent.com/nguyenphp/nguyenphp/refs/heads/main/cover.png)
 
 <br/>
 
@@ -80,12 +80,12 @@ goal      : Craft apps that are fast, beautiful, and actually useful
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenphp305&show_icons=true&theme=merko&hide_border=true&count_private=true&title_color=3AA757&icon_color=1D9E75&text_color=1A5C32&bg_color=F0F7F1" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphp305&layout=compact&theme=merko&hide_border=true&title_color=3AA757&text_color=1A5C32&bg_color=F0F7F1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenphp&show_icons=true&theme=merko&hide_border=true&count_private=true&title_color=3AA757&icon_color=1D9E75&text_color=1A5C32&bg_color=F0F7F1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphp&layout=compact&theme=merko&hide_border=true&title_color=3AA757&text_color=1A5C32&bg_color=F0F7F1" />
 
 <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nguyenphp305&theme=merko&hide_border=true&ring=3AA757&fire=1D9E75&currStreakLabel=1A5C32)
+![GitHub Streak](https://streak-stats.demolab.com?user=nguyenphp&theme=merko&hide_border=true&ring=3AA757&fire=1D9E75&currStreakLabel=1A5C32)
 
 </div>
 
@@ -104,5 +104,5 @@ goal      : Craft apps that are fast, beautiful, and actually useful
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenphp305&color=1D9E75&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=nguyenphp&color=1D9E75&style=flat-square&label=Profile+Views" />
 </div>
